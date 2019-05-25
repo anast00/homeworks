@@ -31,4 +31,4 @@ Passion|__art__|oil
 art|Passion|oil
 art|oil|Passion
 ~~oil~~|Passion|art
-Passion|oil|art
+Passion|oil|**art**
